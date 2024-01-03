@@ -1,0 +1,15 @@
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\degisken\bin\Debug\net7.0\degisken.exe
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\degisken\bin\Debug\net7.0\degisken.deps.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\degisken\bin\Debug\net7.0\degisken.runtimeconfig.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\degisken\bin\Debug\net7.0\degisken.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\degisken\bin\Debug\net7.0\degisken.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net7.0\degisken.csproj.AssemblyReference.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net7.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net7.0\degisken.AssemblyInfoInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net7.0\degisken.AssemblyInfo.cs
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net7.0\degisken.csproj.CoreCompileInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net7.0\degisken.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net7.0\refint\degisken.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net7.0\degisken.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net7.0\degisken.genruntimeconfig.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net7.0\ref\degisken.dll
